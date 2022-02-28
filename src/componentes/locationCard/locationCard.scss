@@ -1,0 +1,20 @@
+.location{
+    color:rgb(255, 209, 209);
+    margin: 20px;
+    width: 250px ;
+    height: 250px;
+    border-radius: 500px;
+    border:1px solid grey;
+    background: linear-gradient(#FDBF01, #F97A05,#B53B03,#4C0B03);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h2{
+        text-decoration: none !important;
+    }
+    p{
+        text-decoration: none !important;
+    }
+}
